@@ -104,3 +104,4 @@ ENV/
 
 # PyCharm project dir
 .idea/
+slither/tools/similarity/output.csv
